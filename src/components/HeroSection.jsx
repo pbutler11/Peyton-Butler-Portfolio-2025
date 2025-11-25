@@ -79,7 +79,7 @@ export const HeroSection = () => {
     />
 
     <img
-      src="/src/images/Profile Picture.jpg"
+      src="/profile-picture.jpg"
       alt="Peyton Butler"
       className="relative w-full h-full rounded-full object-cover 
                  border border-border shadow-2xl"
